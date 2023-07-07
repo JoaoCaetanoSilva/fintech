@@ -1,0 +1,30 @@
+.barra{
+    height: 60px;
+    background-color: rgb(81, 182, 81);
+}
+
+.centralizar{
+    justify-content: center;
+    display: flex;
+    
+}
+
+.botoes-tamanho{
+    width: 213px;
+    height: 63px;
+}
+
+.esquerda{
+    justify-content: left;
+    display: flex;
+}
+
+.input-data{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 2px;
+}
+
+input-none{
+    border: none;
+}
